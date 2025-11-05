@@ -1,2 +1,2 @@
-# Flutter-Extension-Pack
-Popular Visual Studio Code extensions for Flutter
+# Flutter Extension Pack
+A collection of essential extensions for Flutter development

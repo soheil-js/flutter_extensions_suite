@@ -1,0 +1,43 @@
+{
+  "name": "flutter-extension-pack",
+  "displayName": "Flutter Extension Pack",
+  "description": "A collection of essential extensions for Flutter development",
+  "version": "0.0.1",
+  "publisher": "Soheil Jashnsaz",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "flutter",
+    "dart"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "homepage": "https://github.com/soheil-js/Flutter-Extension-Pack",
+  "repository": {
+    "url": "https://github.com/soheil-js/Flutter-Extension-Pack"
+  },
+  "bugs": {
+    "url": "https://github.com/soheil-js/Flutter-Extension-Pack/issues"
+  },
+  "extensionPack": [ 
+    "dart-code.dart-code",
+    "dart-code.flutter",
+    "abdelkhalik.flutter-checker",
+    "djbkwon.flutter-dependency-docs",
+    "marcelovelasquez.flutter-tree",
+    "jeroen-meijer.pubspec-assist",
+    "circlecodesolution.ccs-flutter-color",
+    "esskar.vscode-flutter-i18n-json",
+    "baladhruv.j20",
+    "radomir9720.f2f-properties-converter",
+    "mastersam.pub-studio",
+    "vinicioslc.adb-interface-vscode",
+    "aaron-bond.better-comments",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "usernamehw.errorlens",
+    "k--kato.intellij-idea-keybindings"
+  ]
+}
