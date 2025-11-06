@@ -2,7 +2,7 @@
   "name": "flutter-extension-packs",
   "displayName": "Flutter Extension Packs",
   "description": "A collection of essential extensions for Flutter development",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "SoheilJashnsaz",
   "engines": {
     "vscode": "^1.105.0"
@@ -28,7 +28,6 @@
     "abdelkhalik.flutter-checker",
     "djbkwon.flutter-dependency-docs",
     "marcelovelasquez.flutter-tree",
-    "jeroen-meijer.pubspec-assist",
     "circlecodesolution.ccs-flutter-color",
     "esskar.vscode-flutter-i18n-json",
     "baladhruv.j20",
@@ -36,7 +35,7 @@
     "mastersam.pub-studio",
     "vinicioslc.adb-interface-vscode",
     "aaron-bond.better-comments",
-    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "tgosystems.togglebracketguides",
     "usernamehw.errorlens",
     "k--kato.intellij-idea-keybindings"
   ]

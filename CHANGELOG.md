@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2025-11-06
+
+### Added
+- Added `tgosystems.togglebracketguides` extension for better visual bracket guides.
+
+### Changed
+- Bumped version from `0.0.1` to `1.0.0` — first stable release.
+
+### Removed
+- Removed `jeroen-meijer.pubspec-assist` — replaced by **Pub Studio**.
+- Removed `bracketpaircolordlw.bracket-pair-color-dlw` — replaced by **Toggle Bracket Guides**.
+
 
 ## [0.0.1] - 2025-11-06
 
@@ -29,6 +41,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - `bracketpaircolordlw.bracket-pair-color-dlw`
   - `usernamehw.errorlens`
   - `k--kato.intellij-idea-keybindings`
-
-[unreleased]: https://github.com/soheil-js/Flutter-Extension-Pack/releases/tag/v0.0.1...HEAD
-[0.0.1]: https://github.com/soheil-js/Flutter-Extension-Pack/releases/tag/v0.0.1
