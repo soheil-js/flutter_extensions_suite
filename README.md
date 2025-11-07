@@ -1,4 +1,4 @@
-# Flutter Extension Packs
+# Flutter Extensions Suite
 A collection of essential extensions for Flutter development
 
 ## Features

@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1] - 2025-11-06
+
+### Changed
+- Renamed project and updated repository name on GitHub.
+- Updated `package.json` metadata to reflect the new project identity.
+- Revised `README.md` with updated descriptions, project title, and features.
+- Adjusted `CHANGELOG.md` to include the new version and naming.
+
 ## [2.0.0] - 2025-11-07
 
 ### Changed

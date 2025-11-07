@@ -1,26 +1,26 @@
 {
-  "name": "flutter-extension-packs",
-  "displayName": "Flutter Extension Packs",
-  "description": "A collection of essential extensions for Flutter development",
-  "version": "2.0.0",
+  "name": "flutter-extensions-suite",
+  "displayName": "Flutter Extensions Suite",
+  "description": "A collection of essential extensions for Flutter development.",
+  "version": "2.0.1",
   "publisher": "SoheilJashnsaz",
   "engines": {
     "vscode": "^1.105.0"
   },
   "icon": "icon.png",
   "keywords": [
-    "flutter",
-    "dart"
+    "dart",
+    "flutter"
   ],
   "categories": [
     "Extension Packs"
   ],
-  "homepage": "https://github.com/soheil-js/Flutter-Extension-Packs",
+  "homepage": "https://github.com/soheil-js/flutter_extensions_suite",
   "repository": {
-    "url": "https://github.com/soheil-js/Flutter-Extension-Packs"
+    "url": "https://github.com/soheil-js/flutter_extensions_suite"
   },
   "bugs": {
-    "url": "https://github.com/soheil-js/Flutter-Extension-Packs/issues"
+    "url": "https://github.com/soheil-js/flutter_extensions_suite/issues"
   },
   "extensionPack": [ 
     "dart-code.dart-code",
