@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2025-11-07
+
+### Changed
+- Reordered extensions in `extensionPack` for better organization and readability.
+
+### Removed
+- Removed `marcelovelasquez.flutter-tree` — rarely used and not critical for core Flutter workflow.
+- Removed `radomir9720.f2f-properties-converter` — deprecated.
+- Removed `esskar.vscode-flutter-i18n-json` — deprecated.
+
 ## [1.0.0] - 2025-11-06
 
 ### Added
